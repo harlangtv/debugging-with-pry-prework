@@ -4,3 +4,6 @@ def plus_two(num)
     num
     binding.pry
 end
+  total = num + 2
+  total
+end
